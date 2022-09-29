@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/Kicad-STM32/Footprints")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/libraries/Conn_JST_S2B-ZR(LF)(SN)/eec.pretty")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "/Users/mlam/Developer/git/dcpedit/rh40/logo/logo.pretty")(options "")(descr ""))
+)

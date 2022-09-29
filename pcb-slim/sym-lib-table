@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/libraries/Kicad-STM32/Symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+)
