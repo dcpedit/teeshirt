@@ -30,4 +30,5 @@ fp-info-cache
 
 .*.sw?
 .DS_Store
-*muse.ai
+*muse.*
+PDF
