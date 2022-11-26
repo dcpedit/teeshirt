@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/Kicad-STM32/Footprints")(options "")(descr ""))
-  (lib (name "eec")(type "KiCad")(uri "${KIPRJMOD}/libraries/Conn_JST_S2B-ZR(LF)(SN)/eec.pretty")(options "")(descr ""))
-)
