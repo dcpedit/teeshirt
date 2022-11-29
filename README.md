@@ -1,3 +1,5 @@
+![teeshirt-6](https://user-images.githubusercontent.com/800930/204630072-cfe386ef-2c38-4d15-8351-0893e490a028.jpg)
+
 # TeeShirt Keyboard
 TeeShirt is a ergonomic monoblock keyboard which was designed with a PCB that can support 3 different sized builds: S, M, and L.
 
