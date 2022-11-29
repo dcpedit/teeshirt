@@ -1,5 +1,7 @@
 # Large Build Guide
 
+![Large-1](https://user-images.githubusercontent.com/800930/204630745-fb1a190e-5a30-441b-8503-5a56ddbc61a6.jpg)
+
 This guide is based on the exact build that is pictured above.  Feel free to customize it to your fit your needs.
 
 ## Components
@@ -39,6 +41,8 @@ Note that only the rotary encoder and OLED components are on the front of the PC
 
 ### Solder diodes
 
+![teeshirt_build-1](https://user-images.githubusercontent.com/800930/204630873-d411653c-2c77-4267-ba2b-42ecb0db7cc2.jpg)
+
 Place a dab of solder on the single bottom pad of the diode on the PCB.  Then using tweesers, position the diode so that the legs line up with the pads.  Then using the point of one tweeser leg, gently hold the top of the diode in place while melting the dab of solder that was placed on the bottom pad previously.  With the diode now held in position, solder the top two legs to their respective pads.
 
 ### Solder switch sockets
@@ -47,6 +51,8 @@ Place some solder on one of the hot swap socket pads.  There should ben enough s
 
 
 ### Solder 5.1k resistors
+
+![teeshirt_build-2](https://user-images.githubusercontent.com/800930/204630957-ace9f2de-4552-497d-b77c-9ad3dfd51f0e.jpg)
 
 Bend the legs of each resistor and place them into position on the back of the PCB.  Orientation does not matter.  Bend the legs outwards to keep them in place, and flip the PCB over to the front to solder them in.  Clip protruding legs with flush cutters.
 
@@ -68,6 +74,9 @@ Place the power pin back into the VBUS hole on the MCU so that it goes all the w
 
 ### Solder rotary encoder
 
+![teeshirt_build-3](https://user-images.githubusercontent.com/800930/204631045-a462198e-3c04-4382-855b-4ebf5dabbf25.jpg)
+
+
 Insert rotary into the front of the PCB and bend all the legs inwards.  After soldering the pins, you can also bend the 2 metal support flaps inwards as well.
 
 ### Solder OLED display
@@ -78,9 +87,20 @@ Place a strip of electrical tape on the PCB where the OLED screen will touch the
 
 ### Install stabalizers
 
+![teeshirt_build-4](https://user-images.githubusercontent.com/800930/204631089-7975df50-24e2-487b-b143-29ad0b87ae12.jpg)
+
+### Place bottom foam into case
+
+![teeshirt_build-5](https://user-images.githubusercontent.com/800930/204631188-4d0fae8f-84ad-4b77-a003-ad95730c5e91.jpg)
+
 ### Mount PCB into the case
 
+![teeshirt_build-6](https://user-images.githubusercontent.com/800930/204631222-334b8354-3e6b-4881-9209-896454485441.jpg)
+
 ### Lay plate foam on top of PCB
+
+![teeshirt_build-7](https://user-images.githubusercontent.com/800930/204631253-5c81fe26-5f26-4869-97af-43bc12b2da99.jpg)
+
 
 ### Attach OLED window to switch plate
 
@@ -88,7 +108,13 @@ Using glue of your choice, place a dab of it on each corner and glue the window 
 
 ### Position switch plate on top of foam
 
+![teeshirt_build-8](https://user-images.githubusercontent.com/800930/204631314-45af0e46-ce2f-44d8-a119-79afce2f8eff.jpg)
+
+
 ### Install switches
+
+![teeshirt_build-9](https://user-images.githubusercontent.com/800930/204631362-22a622c3-47e4-4cff-a989-c10673f6b338.jpg)
+
 
 ### Install rotary encoder knob
 
