@@ -1,5 +1,7 @@
 # Small Build Guide
 
+![teeshirt-8](https://user-images.githubusercontent.com/800930/204634106-3f1c62ce-4639-45f3-b919-df7657a722be.jpg)
+
 This guide is based on the exact build that is pictured above.  Feel free to customize it to your fit your needs.
 
 ## Components
