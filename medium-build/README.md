@@ -21,7 +21,7 @@ This guide is based on the exact build that is pictured above.  Feel free to cus
 | M2x13mm standoff | 10 | Case perimeter |
 | M2x6mm standoff | 9 | PCB mount |
 | M2x3mm screw | 9 | PCB mount bottom |
-| M2x4mm screw | 19 | PCB mount top & case bototm |
+| M2x4mm screw | 19 | PCB mount top & case bottom |
 | M2x8mm screw | 10 | Case top |
 | Non-slip bottom | 1 | 1.5mm adhesive neoprene
 
@@ -29,14 +29,14 @@ This guide is based on the exact build that is pictured above.  Feel free to cus
 
 | Name | Quantity | Material |
 | ---- | ----------- | -------- |
-| #1 Top 1u Clear | 1 | 1.5mm transparent acrylic |
-| #2 Top spacer | 1 | 1.5mm acrylic |
-| #3 - #4 Mid spacer | 2 | 1.5mm acrylic |
-| #5 - #6 Bottom spacer | 2 | 1.5mm acrylic |
-| #7 Bottom | 2 | 1.5mm acrylic |
+| #1 Top 1u Clear | 1 | 3mm transparent acrylic |
+| #2 Top spacer | 1 | 3mm acrylic |
+| #3 - #4 Mid spacer | 2 | 3mm acrylic |
+| #5 - #6 Bottom spacer | 2 | 3mm acrylic |
+| #7 Bottom | 1 | 3mm acrylic |
 | Bottom Foam | 1 | 1.5mm EVA |
 | Bottom Rubber | 1 | 1.5mm adhesive neoprene |
-| Plate Foam | 1-2 | 3.5mm EVA (or 1.5mm + 2mm EVA) |
+| Plate Foam | 1-2 | 3.5mm (or 1.5mm + 2mm) EVA |
 | 2u Plate Floating | 1 | 1.5mm acrylic |
 
 ## Assembly steps
