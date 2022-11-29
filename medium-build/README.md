@@ -1,5 +1,7 @@
 # Medium Build Guide
 
+![Medium-1](https://user-images.githubusercontent.com/800930/204632039-764d0dd6-e116-4ec3-9a64-b58b8cf708c7.jpg)
+
 This guide is based on the exact build that is pictured above.  Feel free to customize it to your fit your needs.
 
 ## Components
@@ -66,12 +68,23 @@ There's only 10mm of space between the PCB and the transparent acrylic top layer
 
 ### Case assembly
 
+![teeshirt_m_build-1](https://user-images.githubusercontent.com/800930/204632132-eed4f7cd-39bc-41ba-8e19-a01aa8eb11d8.jpg)
+
 * Attach the 10 M2x13mm standoffs around the perimeter of the bottom case layer with the M2x4mm screws
 * Assemble 9 PCB mounts by screwing a M2x3mm screw into one end of a M2x6mm standoff.  Then take the mount assembly and slip it into the mount holes on the bottom case layer so that all the screw heads are on the bottom.
 * Slip #5 - #6 bottom spacer layers over the perimeter standoffs
 * Put the bottom foam into the case
+
+![teeshirt_m_build-2](https://user-images.githubusercontent.com/800930/204632589-199cf2fe-3da7-4c98-a6b7-ed63dc14ffcd.jpg)
+
 * Mount the PCB into the case standoffs using M2x4mm screws
+
+![teeshirt_m_build-3](https://user-images.githubusercontent.com/800930/204632663-0af46103-fa6a-45ec-84fc-0932b1d264b9.jpg)
+
 * Slip #3 - #4 mid spacer layers over the perimeter standoffs
+
+![teeshirt_m_build-4](https://user-images.githubusercontent.com/800930/204633644-31161bd2-bcae-410c-b109-76893ba6acee.jpg)
+
 * Put the plate foam onto the PCB
 * Put the switch plate on top of the plate foam, making sure the switch holes are lined up
 * Push all the switches into the hotswap sockets (note north vs. south facing)
