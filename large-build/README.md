@@ -74,12 +74,11 @@ Place the power pin back into the VBUS hole on the MCU so that it goes all the w
 
 ### Solder rotary encoder
 
-![teeshirt_build-3](https://user-images.githubusercontent.com/800930/204631045-a462198e-3c04-4382-855b-4ebf5dabbf25.jpg)
-
-
 Insert rotary into the front of the PCB and bend all the legs inwards.  After soldering the pins, you can also bend the 2 metal support flaps inwards as well.
 
 ### Solder OLED display
+
+![teeshirt_build-3](https://user-images.githubusercontent.com/800930/204631045-a462198e-3c04-4382-855b-4ebf5dabbf25.jpg)
 
 For this particular build, the OLED display is soldered right up against the PCB so that it's as low-profile as possible.  This allows for the OLED window to be attached directly onto the switch plate.  Using headers would add too much height to use a window, or would require a different window design which utilizes standoffs.  (There's only 5mm of space between the top of the PCB and the top of the switch plate)
 
