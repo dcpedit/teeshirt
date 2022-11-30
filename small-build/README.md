@@ -70,6 +70,8 @@ You can now reattach the MCU to the board.
 
 Attach 9 M2x5 standoffs to the bottom plate using the 4mm screws.  Now secure the PCB to the standoffs using another 9 screws.
 
+![bottom-2](https://user-images.githubusercontent.com/800930/204677351-f58dc7f1-dbed-47c5-af47-207aa5c7b779.jpg)
+
 ### Install standoffs for clear guard
 
 Attach 4 M2x5 to the switch plate using the 4mm screws.  Don't attach the actual clear guard yet since that's done at the end of the build.
