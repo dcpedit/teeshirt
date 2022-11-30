@@ -97,4 +97,6 @@ There's only 10mm of space between the PCB and the transparent acrylic top layer
 
 Remove the paper on the adhesive side of the neoprene, and carefully lay it over the bottom of the case. Start on one side while smoothing air bubbles out.  You may have to stretch the neoprene during this process to get the screw heads to line up with the holes.
 
+![bottom-1](https://user-images.githubusercontent.com/800930/204677400-23e38b7c-cc38-4538-804e-cace70c50c91.jpg)
+
 ### Install keycaps
