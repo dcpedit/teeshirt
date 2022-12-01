@@ -15,3 +15,7 @@ TeeShirt is a ergonomic monoblock keyboard with a one-size-fits-some PCB design 
 * Supports 128x32 OLED display
 * Utilizes hot swap sockets
 * Uses ProMicro MCU footprint: Elite-C, Nice!Nano, etc.
+
+## Sponsors
+
+The first revision of the PCB was sponsored by PCBWay, so a huge thanks to them for helping get this project off the ground.  Their KiCad plugin made it super easy to send the design directly to their site, where you can place the order and have it shipped out with just a few clicks.
