@@ -9,6 +9,7 @@ This guide is based on the exact build that is pictured above.  Feel free to cus
 | Part | Count | Description |
 | ---- | ----- | ----------- |
 | Elite-C | 1 | Microcontroller |
+| USB port | 1 | TYPE-C-31-M-12 |
 | Wires | 2 | Connects data lines to PCB |
 | Pin | 1 | For power connection |
 | 5.1k resistor| 2 | Through hole pulldown resistors for USB-C |
@@ -38,6 +39,10 @@ This guide is based on the exact build that is pictured above.  Feel free to cus
 ## Assembly steps
 
 Note that only the rotary encoder and OLED components are on the front of the PCB.  All other components are on the back.
+
+### Solder USB-C port
+
+Make sure you position the port on the back of the PCB.  Solder in the 4 port legs before doing the small pins.  For the pins, place some solder on your iron tip and lightly drag the solder across the small pads.  If you happen to brdige the pins, clean your iron tip and try to pick up the extra solder.
 
 ### Solder diodes
 

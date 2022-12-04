@@ -10,4 +10,4 @@ If you're relocating the USB port to the upper left of the PCB for the large siz
 
 ![bottom-2](https://user-images.githubusercontent.com/800930/204985839-ced288d0-9631-4a51-8fd5-b91bbb5297f6.jpg)
 
-For the medium and small builds, the MCU can be mounted on the top side with headers.
+For the small builds, the MCU can be mounted on the top side with headers.
