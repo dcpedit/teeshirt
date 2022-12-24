@@ -67,7 +67,11 @@ Start the Plover application and click the **Configure** button and then go to t
 
 Double click on each of the Action cells in the right column and select the action that matches the left column.  Then click the **OK** button to go back to the main screen.
 
+<img width="583" alt="Configure" src="https://user-images.githubusercontent.com/800930/209448146-f590aa77-fe76-4a90-a4fc-9112d343f506.png">
+
 Select the `Plover HID` machine and then click select **Enable**
+
+<img width="441" alt="Plover-HID" src="https://user-images.githubusercontent.com/800930/209448150-a9210cb2-3003-4c78-ab9d-b560efa78b5e.png">
 
 
 Then 
