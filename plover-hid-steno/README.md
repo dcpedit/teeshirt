@@ -1,6 +1,6 @@
-# TeeShirt and Plover
+# Small TeeShirt build and Plover
 
-I've put together some documentation for those who wanted to play around with stenography.  It took some tinkering to get ZMK working with Plover, so hopefully these instructions will save you some time.
+I've put together some documentation for those who wanted to play around with stenography.  It took some tinkering to get ZMK working with Plover, so hopefully these instructions will be helpful to those who are looking to accomplish the same thing.
 
 ## ZMK firmware
 
