@@ -8,7 +8,7 @@ https://github.com/dcpedit/zmk-plover
 
 This is a fork of dnaq's implementation of the Plover HID protocol in ZMK.  You can read about it in the [official pull request here.](https://github.com/zmkfirmware/zmk/pull/962)
 
-The precompiled binary is in `firmware/plover_hid`.
+The precompiled binary can be used as well (`zmk.uf2`)
 
 After loading the firmware, you can test it with the following site:
 https://lim.au/#/software/plover-hid
