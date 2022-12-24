@@ -1,5 +1,7 @@
 # Small TeeShirt build and Plover
 
+<img width="600" alt="Keymap" src="https://user-images.githubusercontent.com/800930/209450813-0da252e6-b3c7-4f91-be50-4b0cf32ebe66.png">
+
 I've put together some documentation for those who wanted to play around with stenography.  It took some tinkering to get ZMK working with Plover, so hopefully these instructions will be helpful to those who are looking to accomplish the same thing.
 
 ## ZMK firmware
