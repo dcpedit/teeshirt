@@ -21,9 +21,9 @@ Plover requires the `hidapi` package, so you will need to install it with [Homeb
 brew install hidapi
 ```
 
-## Mac with ARM chip (M1, M2)
+## Macs with ARM chip (M1, M2)
 
-The ARM version of `hidapi` package will not work, so you will need to install the Intel (x86) version of Homebrew and hidapi.
+The ARM version of `hidapi` package will not work, so you will need to install the Intel (x86) version of Homebrew and hidapi  [(source)](https://gist.github.com/progrium/b286cd8c82ce0825b2eb3b0b3a0720a0).
 
 ```
 $ arch -x86_64 zsh
@@ -33,6 +33,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 ```
 $ brew install hidapi
 ```
+
 
 ## Plover software
 
@@ -63,15 +64,18 @@ To list installed plugins
 
 ## Configure Plover
 
-Start the Plover application and click the **Configure** button and then go to the **Machine** tab.  Select **Plover HID** in the Machine dropdown.
+Start the Plover application, click the **Configure** button, and then go to the **Machine** tab.  Select `Plover HID` in the **Machine** dropdown.
 
-Double click on each of the Action cells in the right column and select the action that matches the left column.  Then click the **OK** button to go back to the main screen.
+Double click on each of the **Action** cells in the right column and select the action that matches the left column.  Then click the **OK** button to go back to the main screen.
 
 <img width="583" alt="Configure" src="https://user-images.githubusercontent.com/800930/209448146-f590aa77-fe76-4a90-a4fc-9112d343f506.png">
 
-Select the `Plover HID` machine and then click select **Enable**
+Select the `Plover HID` Machine and then click select `Enable`.
 
 <img width="441" alt="Plover-HID" src="https://user-images.githubusercontent.com/800930/209448150-a9210cb2-3003-4c78-ab9d-b560efa78b5e.png">
 
+## Start typing!
 
-Then 
+And that's it!  The middle button on the TeeShirt will toggle the Plover layer on and off.  Here's a good resource if you're just starting out with Plover:
+
+https://sites.google.com/site/learnplover/home
