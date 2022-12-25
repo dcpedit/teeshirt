@@ -6,9 +6,19 @@ I've put together some documentation for those who wanted to play around with st
 
 ## ZMK firmware
 
-https://github.com/dcpedit/zmk-plover
+https://github.com/dcpedit/zmk-plover/tree/plover-hid-hog-attempt/app/boards/shields/teeshirt
 
 This is a fork of dnaq's implementation of the Plover HID protocol in ZMK.  You can read about it in the [official pull request here.](https://github.com/zmkfirmware/zmk/pull/962)
+
+Follow the [ZMK environment setup](https://zmk.dev/docs/development/setup).  I highly recommend using VS Code & Docker.
+```
+cd app
+west build -b nice_nano_v2 -- -DSHIELD=micro10
+```
+Binary will be located here.
+```
+app/build/zephyr/zmk.uf2
+```
 
 The precompiled binary can be used as well (`zmk.uf2`)
 
