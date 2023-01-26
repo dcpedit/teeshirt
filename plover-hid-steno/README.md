@@ -13,7 +13,7 @@ This is a fork of dnaq's implementation of the Plover HID protocol in ZMK.  You 
 Follow the [ZMK environment setup](https://zmk.dev/docs/development/setup).  I highly recommend using VS Code & Docker.
 ```
 cd app
-west build -b nice_nano_v2 -- -DSHIELD=micro10
+west build -b nice_nano_v2 -- -DSHIELD=teeshirt
 ```
 Binary will be located here.
 ```
