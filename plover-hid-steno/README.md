@@ -102,6 +102,12 @@ Select the `Plover HID` Machine and then click select `Enable`.
 
 <img width="441" alt="Plover-HID" src="https://user-images.githubusercontent.com/800930/209448150-a9210cb2-3003-4c78-ab9d-b560efa78b5e.png">
 
+## Reconnect plugin
+
+Since ZMK boards will go to sleep after a period of inactivity, this reconnect plover plugin makes the experience more seamless when it wakes again:
+
+https://github.com/tschulte/plover_auto_reconnect_machine
+
 ## Start typing!
 
 And that's it!  The middle button on the TeeShirt will toggle the Plover layer on and off.  Here's a good resource if you're just starting out with Plover:
