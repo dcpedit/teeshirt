@@ -64,7 +64,9 @@ $ brew install hidapi
 
 Now download and install the Plover software: https://www.openstenoproject.org/plover/
 
-If you're on MacOS, add "Plover" in System Settings > Privacy and Security > Input Monitoring.  Then disconnect and forget the bluetooth keyboard and reboot macOS. Clear the bluetooth setting on your keyboard and repeat the pairing process.  If that doesn't work, you may need to reflash.
+If you're on MacOS, add "Plover" in System Settings > Security and Privacy > Input Monitoring.  Then disconnect and forget the bluetooth keyboard and reboot macOS. Clear the bluetooth setting on your keyboard and repeat the pairing process.  If that doesn't work, you may need to reflash.
+
+<img width="780" alt="Security and Privacy" src="https://user-images.githubusercontent.com/800930/223504271-73f3b337-7473-4565-b96d-704b9eb2d5b2.png">
 
 ## Plover HID Plugin
 
