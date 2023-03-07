@@ -8,9 +8,22 @@ I've put together some documentation for those who wanted to play around with st
 
 https://github.com/dcpedit/zmk-plover/tree/plover-hid-hog-attempt/app/boards/shields/teeshirt
 
-This is a fork of dnaq's implementation of the Plover HID protocol in ZMK.  You can read about it in the [official pull request here.](https://github.com/zmkfirmware/zmk/pull/962)
+Make sure you're cloning the `plover-hid-hog-attempt` branch:
+```
+git clone -b plover-hid-hog-attempt https://github.com/dcpedit/zmk-plover
+```
 
-Follow the [ZMK environment setup](https://zmk.dev/docs/development/setup).  I highly recommend using VS Code & Docker.
+This is a fork of dnaq's implementation of the Plover HID protocol in ZMK.  You can read about it in the [official pull request here.](https://github.com/zmkfirmware/zmk/pull/962)  You can also clone his fork directly with the following command:
+```
+git clone -b plover-hid-hog-attempt https://github.com/dnaq/zmk
+```
+
+Follow the [ZMK environment setup](https://zmk.dev/docs/development/setup).  I highly recommend using VS Code & Docker.  For MacOS users, you may need to update `.devcontainer/DockerFile` with the following line for the container to start:
+```
+FROM --platform=linux/x86_64 docker.io/zmkfirmware/zmk-dev-arm:3.0
+```
+
+To run the build:
 ```
 cd app
 west build -b nice_nano_v2 -- -DSHIELD=teeshirt
@@ -20,9 +33,9 @@ Binary will be located here.
 app/build/zephyr/zmk.uf2
 ```
 
-The precompiled binary can be used as well (`zmk.uf2`)
+If you're using a TeeShirt board, you can use my precompiled binary (`zmk.uf2`)
 
-After loading the firmware, you can test it with the following site:
+After loading the firmware, you can test it with the following website (by jthlim):
 https://lim.au/#/software/plover-hid
 
 ## Macs with Intel chip
@@ -51,6 +64,7 @@ $ brew install hidapi
 
 Now download and install the Plover software: https://www.openstenoproject.org/plover/
 
+If you're on MacOS, add "Plover" in System Settings > Privacy and Security > Input Monitoring.  Then disconnect and forget the bluetooth keyboard and reboot macOS. Clear the bluetooth setting on your keyboard and repeat the pairing process.  If that doesn't work, you may need to reflash.
 
 ## Plover HID Plugin
 
