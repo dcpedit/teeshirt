@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="350" alt="teeshirt_logo" src="https://user-images.githubusercontent.com/800930/233540787-4352701e-a469-443c-87c8-391a423479ec.png">
+</p>
+
 # TeeShirt Keyboard
 
 ![teeshirt-6](https://user-images.githubusercontent.com/800930/204630072-cfe386ef-2c38-4d15-8351-0893e490a028.jpg)
