@@ -56,7 +56,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 ```
 
 ```
-$ brew install hidapi
+$ arch -x86_64 brew install hidapi
 ```
 
 
