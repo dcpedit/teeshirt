@@ -55,8 +55,19 @@ $ arch -x86_64 zsh
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Add the following to your `~/.zshrc` file:
 ```
-$ arch -x86_64 brew install hidapi
+if [ "$(arch)" = "arm64" ]; then
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+else
+    eval "$(/usr/local/bin/brew shellenv)"
+fi
+```
+
+Then install `hidapi`
+```
+$ source ~/.zshrc
+$ brew install hidapi
 ```
 
 
