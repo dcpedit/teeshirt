@@ -3,7 +3,7 @@
 ## Vial
 Binary: `dcpedit_teeshirt_vial_fancy.hex`
 
-Source: https://github.com/dcpedit/vial-qmk/tree/vial/keyboards/dcpedit/teeshirt
+Source: https://github.com/dcpedit/vial-qmk-dev/tree/vial/keyboards/dcpedit/teeshirt
 
 ## ZMK
 
